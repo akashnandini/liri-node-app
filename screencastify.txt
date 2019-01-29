@@ -1,5 +1,0 @@
-﻿
-$ node liri.js concert skrillex
-screencastify:
-
-https://drive.google.com/file/d/1QOuMy7SKKWepcF3F2sBoTkZQYlAMqvBJ/view

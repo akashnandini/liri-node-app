@@ -2,7 +2,7 @@ require("dotenv").config();
 
 // variables
 var axios = require("axios");
-var inquirer = require("inquirer");
+//var inquirer = require("inquirer");
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var moment = require('moment');
@@ -55,8 +55,10 @@ function song_spotify(inputs){
     //console.log(JSON.stringify(data))
     if (!error) {
         var songInfo = data.tracks.items;
-        for (var i = 0; i < 2; i++) {
+        //console.log(songInfo)
+        for (var i = 1; i <2 ; i++) {
             if (songInfo[i] != undefined) {
+               // console.log(songInfo[i])
                 var spotifyResults =
                     "------------------------------" + "\r\n" +
                     "ARTIST NAME: " + songInfo[i].artists[0].name + "\r\n" +
@@ -135,14 +137,10 @@ function doWhatItSays() {
         if (!error);
         //console.log(data.toString());
         var random = data.toString().split(',');
-        /*if(random[0] === "spotify-this-song"){
+        if(random[0] === "spotify-this-song"){
             var song = random[1];
             //console.log("song==="+song)
             song_spotify(song);
-        }*/
-        if(random[0] === "movie-this"){
-            var title = random[1];
-            movie(title);
         }
     });
 }
