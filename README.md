@@ -40,12 +40,12 @@ This will show the following information about the song in the terminal/bash win
     * The album that the song is from  
     
 liri.js spotify-this-songs perfect   
-![Screenshot](screenshot/spotify_with song.PNG)  
+![Screenshot](screenshot/spotify_with_song.PNG)  
 
 ####Without song Liri will choose default song "The Sign" by Ace of Base
 
 liri.js spotify-this-songs
-![Screenshot](screenshot/spotify_without song.PNG)
+![Screenshot](screenshot/spotify_without_song.PNG)
 
 ####node liri.js movie-this '<movie name here>'
   
