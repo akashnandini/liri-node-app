@@ -21,10 +21,14 @@ liri.js concert-this skrillex
 
 ####node liri.js spotify-this-song '<song name here>'
   
-This will show the following information about the song in the terminal/bash window to retrive the information from Spotify API 
+This will show the following information about the song in the terminal/bash window to retrive the information from Spotify API
+
     *Artist(s)
+    
     * The song's name
+    
     * A preview link of the song from Spotify
+    
     * The album that the song is from  
     
 liri.js spotify-this-songs perfect   
@@ -38,13 +42,21 @@ liri.js spotify-this-songs
 ####node liri.js movie-this '<movie name here>'
   
 This will show the following information to the terminal/bash window to retrive the information from OMDB API.
+
     * Title of the movie.
+    
     * Year the movie came out.
+    
     * IMDB Rating of the movie.
+    
     * Rotten Tomatoes Rating of the movie.
+    
     * Country where the movie was produced.
+    
     * Language of the movie.
+    
     * Plot of the movie.
+    
     * Actors in the movie.
     
 liri.js movie-this titanic
@@ -61,8 +73,11 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 ####These commands will log data into a log.txt file.
 
   concert-this
+  
   spotify-this-song
+  
   movie-this
+  
   do-what-it-says
   
   ![Screenshot](screenshot/log.PNG)
