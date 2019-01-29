@@ -21,7 +21,7 @@ var inputs = nodeArgs[3];
 //console.log(option)
 //console.log(inputs)
 switch (option) {
-    case "concert":
+    case "concert-this":
 	concert(inputs);
     break;
     

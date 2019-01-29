@@ -1,4 +1,19 @@
 ﻿------------------------------
+NAME OF THE VENUE: EDC Mexico (Feb 23-24)
+VENUE LOCATION: Mexico City
+DATE OF THE EVENT: 02/23/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ BUKU [MAR 22-23]
+VENUE LOCATION: New Orleans
+DATE OF THE EVENT: 03/22/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ Sunset Music Festival [May 25-26]
+VENUE LOCATION: Tampa
+DATE OF THE EVENT: 05/25/2019
+---------------------------
+------------------------------
 ARTIST NAME: Ed Sheeran
 SONG NAME: Perfect
 PREVIEW LINK: https://p.scdn.co/mp3-preview/79d78d46f8118646aafe018271919f6a33f3213e?cid=797a5d6cde434808ba217af35eff007d
@@ -29,21 +44,6 @@ COUNTRY: Belgium, Germany, Canada, France, USA, UK
 LANGUAGE: English, Mohawk
 PLOT: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 ACTORS: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
----------------------------
-------------------------------
-NAME OF THE VENUE: EDC Mexico (Feb 23-24)
-VENUE LOCATION: Mexico City
-DATE OF THE EVENT: 02/23/2019
----------------------------
-------------------------------
-NAME OF THE VENUE: DOG BLOOD @ Sunset Music Festival [May 25-26]
-VENUE LOCATION: Tampa
-DATE OF THE EVENT: 05/25/2019
----------------------------
-------------------------------
-NAME OF THE VENUE: DOG BLOOD @ BUKU [MAR 22-23]
-VENUE LOCATION: New Orleans
-DATE OF THE EVENT: 03/22/2019
 ---------------------------
 ------------------------------
 ARTIST NAME: Backstreet Boys
