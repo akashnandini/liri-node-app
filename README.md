@@ -72,12 +72,12 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 
 ####These commands will log data into a log.txt file.
 
-  concert-this
+  * concert-this
   
-  spotify-this-song
+  * spotify-this-song
   
-  movie-this
+  * movie-this
   
-  do-what-it-says
+  * do-what-it-says
   
   ![Screenshot](screenshot/log.PNG)
