@@ -16,7 +16,13 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
   
 ####node liri.js concert-this _artist/band name here
 
-This will search the Bands in Town Artist Events API for an artist and render 'Name of the venue','Venue location' and 'Date of the Event' about each event 
+This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
+
+     * Name of the venue
+
+     * Venue location
+
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 liri.js concert-this skrillex
 ![Screenshot](screenshot/concert.PNG)
