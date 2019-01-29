@@ -1,50 +1,138 @@
 ﻿------------------------------
-MOVIE TITLE: Quantico
-YEAR OF RELEASE: 2015–2018
-IMDB RATING: 6.7
-ROTTEN TOMATOES RATING: undefined
-COUNTRY: USA
-LANGUAGE: English
-PLOT: A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.
-ACTORS: Priyanka Chopra, Jake McLaughlin, Johanna Braddy, Aunjanue Ellis
----------------------------
-------------------------------
-ARTIST NAME: Backstreet Boys
-SONG NAME: I Want It That Way
-PREVIEW LINK: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=797a5d6cde434808ba217af35eff007d
-ALBUM NAME: The Hits--Chapter One
-------------------------------
-------------------------------
-ARTIST NAME: Backstreet Boys
-SONG NAME: I Want It That Way
-PREVIEW LINK: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=797a5d6cde434808ba217af35eff007d
-ALBUM NAME: Millennium
-------------------------------
-------------------------------
-ARTIST NAME: Anthem Lights
-SONG NAME: I Want It That Way
-PREVIEW LINK: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=797a5d6cde434808ba217af35eff007d
-ALBUM NAME: Covers Part IV
-------------------------------
-------------------------------
-ARTIST NAME: Dynamite Boy
-SONG NAME: I Want It That Way
+ARTIST NAME: Ariana Grande
+SONG NAME: thank u, next
 PREVIEW LINK: null
-ALBUM NAME: Punk Goes Pop
+ALBUM NAME: thank u, next
 ------------------------------
 ------------------------------
-ARTIST NAME: Tyler and Mark
-SONG NAME: I Want It That Way
-PREVIEW LINK: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=797a5d6cde434808ba217af35eff007d
-ALBUM NAME: Beautiful Dreams
+ARTIST NAME: Ariana Grande
+SONG NAME: thank u, next
+PREVIEW LINK: null
+ALBUM NAME: thank u, next
+------------------------------
+------------------------------
+ARTIST NAME: Harry Styles
+SONG NAME: Sign of the Times
+PREVIEW LINK: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=797a5d6cde434808ba217af35eff007d
+ALBUM NAME: Harry Styles
+------------------------------
+------------------------------
+ARTIST NAME: Ace of Base
+SONG NAME: The Sign
+PREVIEW LINK: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=797a5d6cde434808ba217af35eff007d
+ALBUM NAME: The Sign (US Album) [Remastered]
 ------------------------------
 ------------------------------
 MOVIE TITLE: Titanic
 YEAR OF RELEASE: 1997
 IMDB RATING: 7.8
-ROTTEN TOMATOES RATING: undefined
+ROTTEN TOMATOES RATING: 7.8/10
 COUNTRY: USA
 LANGUAGE: English, Swedish
 PLOT: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 ACTORS: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+---------------------------
+------------------------------
+MOVIE TITLE: Mr. Nobody
+YEAR OF RELEASE: 2009
+IMDB RATING: 7.9
+ROTTEN TOMATOES RATING: 7.9/10
+COUNTRY: Belgium, Germany, Canada, France, USA, UK
+LANGUAGE: English, Mohawk
+PLOT: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ACTORS: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------
+------------------------------
+NAME OF THE VENUE: EDC Mexico (Feb 23-24)
+VENUE LOCATION: Mexico City
+DATE OF THE EVENT: 02/23/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ BUKU [MAR 22-23]
+VENUE LOCATION: New Orleans
+DATE OF THE EVENT: 03/22/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ Sunset Music Festival [May 25-26]
+VENUE LOCATION: Tampa
+DATE OF THE EVENT: 05/25/2019
+---------------------------
+------------------------------
+MOVIE TITLE: Dangal
+YEAR OF RELEASE: 2016
+IMDB RATING: 8.5
+ROTTEN TOMATOES RATING: 8.5/10
+COUNTRY: India
+LANGUAGE: Hindi, Tamil, Telugu
+PLOT: Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.
+ACTORS: Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwar
+---------------------------
+------------------------------
+ARTIST NAME: Ariana Grande
+SONG NAME: thank u, next
+PREVIEW LINK: null
+ALBUM NAME: thank u, next
+------------------------------
+------------------------------
+ARTIST NAME: Ariana Grande
+SONG NAME: thank u, next
+PREVIEW LINK: null
+ALBUM NAME: thank u, next
+------------------------------
+------------------------------
+ARTIST NAME: Harry Styles
+SONG NAME: Sign of the Times
+PREVIEW LINK: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=797a5d6cde434808ba217af35eff007d
+ALBUM NAME: Harry Styles
+------------------------------
+------------------------------
+ARTIST NAME: Ace of Base
+SONG NAME: The Sign
+PREVIEW LINK: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=797a5d6cde434808ba217af35eff007d
+ALBUM NAME: The Sign (US Album) [Remastered]
+------------------------------
+------------------------------
+MOVIE TITLE: Titanic
+YEAR OF RELEASE: 1997
+IMDB RATING: 7.8
+ROTTEN TOMATOES RATING: 7.8/10
+COUNTRY: USA
+LANGUAGE: English, Swedish
+PLOT: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ACTORS: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+---------------------------
+------------------------------
+MOVIE TITLE: Mr. Nobody
+YEAR OF RELEASE: 2009
+IMDB RATING: 7.9
+ROTTEN TOMATOES RATING: 7.9/10
+COUNTRY: Belgium, Germany, Canada, France, USA, UK
+LANGUAGE: English, Mohawk
+PLOT: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ACTORS: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------
+------------------------------
+NAME OF THE VENUE: EDC Mexico (Feb 23-24)
+VENUE LOCATION: Mexico City
+DATE OF THE EVENT: 02/23/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ BUKU [MAR 22-23]
+VENUE LOCATION: New Orleans
+DATE OF THE EVENT: 03/22/2019
+---------------------------
+------------------------------
+NAME OF THE VENUE: DOG BLOOD @ Sunset Music Festival [May 25-26]
+VENUE LOCATION: Tampa
+DATE OF THE EVENT: 05/25/2019
+---------------------------
+------------------------------
+MOVIE TITLE: Dangal
+YEAR OF RELEASE: 2016
+IMDB RATING: 8.5
+ROTTEN TOMATOES RATING: 8.5/10
+COUNTRY: India
+LANGUAGE: Hindi, Tamil, Telugu
+PLOT: Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.
+ACTORS: Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Sakshi Tanwar
 ---------------------------
