@@ -77,6 +77,7 @@ liri.js movie-this
 #### node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call spotify-this-song "I Want it That Way," as follows the text in random.txt
+![Screenshot](screenshot/random.PNG)
 
 ####These commands will log data into a log.txt file.
 
